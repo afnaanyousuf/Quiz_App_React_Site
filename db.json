@@ -1,0 +1,64 @@
+{
+    "quizQuestion":[
+        {
+            "question":"What is the default behaviour of React when rendering a list",
+            "options":["Keys", "Refs", "State", "Props"],
+            "correctAnswer": 0,
+            "points": 5
+        },
+        {
+            "question": "Which keyword is used to define a constant in React?",
+            "options" : ["let", "var", "const", "def"],
+            "correctAnswer": 2,
+            "points": 5
+        },
+        {
+            "question": "Which method is used to render React elements in the DOM?",
+            "options" :["render", "hydrate", "setState", "call"],
+            "correctAnswer": 0,
+            "points":10
+        },
+        {
+            "question": "What is React primarly used for?",
+            "options": ["Database", "Frontend", "Backend", "Server"],
+            "correctAnswer": 1,
+            "points": 10
+        },
+        {
+            "question":"What property holds the data in a React Component",
+            "options": ["props", "state", "keys", "context"],
+            "correctAnswer": 1,
+            "points": 5
+        },
+        {
+            "question": "Which React hook is used for side effects?",
+            "options": ["useState", "useEffect", "useContext", "useRef"],
+            "correctAnswer": 1,
+            "points": 10
+        },
+        {
+            "question": "What is passed to components to make them dynamic",
+            "options": ["Keys", "Refs", "State", "Props"],
+            "correctAnswer": 3,
+            "points": 10
+        },
+        {
+            "question": "Which keyword is used to export a component?",
+            "options": ["export", "import", "Require", "Module"],
+            "correctAnswer": 0,
+            "points": 5
+        },
+        {
+            "question": "What is the default port for React development server?",
+            "options": ["3000", "8000", "4000", "2000"],
+            "correctAnswer":0,
+            "points": 5
+        },
+        {
+            "question": "Which allows you to manage state in functional components?",
+            "options":["useEffect", "useContext", "useState", "useMemo"],
+            "correctAnswer":1,
+            "points":5
+        }
+    ]
+}
